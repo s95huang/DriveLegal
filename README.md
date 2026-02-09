@@ -1,6 +1,18 @@
-# DriveLegal
+# DriveLegal: Toward Legally Compliant Driving via Trustworthy Hybrid Retrieval‑Augmented LLMs
+[![Elsevier Badge](https://img.shields.io/badge/Elsevier-FF6C00?logo=elsevier&logoColor=fff&style=for-the-badge)](https://ieeexplore.ieee.org/document/11162558)
+[![Supplementary](https://img.shields.io/badge/Supplementary-Material-4B8BBE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](supplemental.pdf)
 
-More information on this work will be released soon.
+
+### 👩‍💻 **Authors**
+**Authors:** Shucheng Huang; Chen Sun; Minghao Ning; Yufeng Yang; Changye Ma; Jiaming Zhong; Keqi Shu; Freda Shi; Amir Khajepour.
+
+
+
+
+
+### 🧾 **Abstract**
+
+Autonomous vehicles (AVs) face persistent challenges in complying with complex and evolving traffic laws. Existing approaches, including rule-based, learning-based, and large language model (LLM) methods, each face limits in adaptability, generalizability, or trustworthiness. We present DriveLegal, a modular legal-interpretation framework for downstream autonomous driving applications. DriveLegal pairs fine-tuned multilingual  LLMs with an intelligent hybrid retrieval module that routes between vector search  and knowledge graph, then returns concise, cited answers. A  trust layer scores context relevance, groundedness, and answer relevance and supports continuous improvement through periodic automatic signals and targeted human review. We introduce the DriveLegal datasets for supervised fine-tuning and for retrieval and graph reasoning. Across benchmarks and case studies in smart cabin and vehicle-to-everything (V2X) settings, the hybrid retrieval strategy improves contextual accuracy and reduces hallucination while producing jurisdiction-aware outputs suitable for compliance checks, incident analysis, and reporting. 
 
 
 ## References:
