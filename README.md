@@ -2,10 +2,14 @@
 [![Elsevier Badge](https://img.shields.io/badge/Elsevier-FF6C00?logo=elsevier&logoColor=fff&style=for-the-badge)](https://ieeexplore.ieee.org/document/11162558)
 [![Supplementary](https://img.shields.io/badge/Supplementary-Material-4B8BBE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](supplemental.pdf)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/55cac7bb-7554-49cc-aa32-513ea6c4bd26"
+       alt="Screenshot 2026-02-13 224859"
+       style="width:100%; max-width:100%; height:auto;" />
+</p>
 
 ### 👩‍💻 **Authors**
 **Authors:** Shucheng Huang; Chen Sun; Minghao Ning; Yufeng Yang; Changye Ma; Jiaming Zhong; Keqi Shu; Freda Shi; Amir Khajepour.
-
 
 
 
