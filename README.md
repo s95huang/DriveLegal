@@ -1,5 +1,5 @@
 # DriveLegal: Toward Legally Compliant Driving via Trustworthy Hybrid Retrieval‑Augmented LLMs
-[![Elsevier Badge](https://img.shields.io/badge/Elsevier-FF6C00?logo=elsevier&logoColor=fff&style=for-the-badge)](https://ieeexplore.ieee.org/document/11162558)
+[![Elsevier Badge](https://img.shields.io/badge/Elsevier-FF6C00?logo=elsevier&logoColor=fff&style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S0957417426005063)
 [![Supplementary](https://img.shields.io/badge/Supplementary-Material-4B8BBE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](supplemental.pdf)
 
 <p align="center">
